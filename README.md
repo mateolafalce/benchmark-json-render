@@ -1,4 +1,10 @@
+<div align="center">
+
+![preview](./media/rover-the-dog.gif)
+
 # JSON Render Benchmark: TOON vs JSONL
+
+</div>
 
 ## Overview
 
@@ -93,9 +99,9 @@ The benchmark results confirm our hypothesis with compelling evidence:
 
 The TOON format demonstrates **significant advantages** over JSONL for LLM-generated structured output:
 
-- ✅ Dramatically reduced token usage
-- ✅ Substantial cost savings (~89% reduction)
-- ✅ Improved response times (~74% faster)
+- Dramatically reduced token usage
+- Substantial cost savings (~89% reduction)
+- Improved response times (~74% faster)
 
 These results validate the hypothesis that optimizing for compact output formats can yield major improvements in LLM application efficiency, especially when output token costs are significantly higher than input token costs.
 
