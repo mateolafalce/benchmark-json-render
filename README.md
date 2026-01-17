@@ -85,6 +85,16 @@ The following results were obtained from testing 10 different UI generation prom
 | 10    | 2003         | 1524         | $0.022235     | $0.014180     | 8532            | 5872            | 479 (31.43%)               | $0.008055 (56.81%)        | 2660 ms (45.30%)          |
 | **AVG** | **2789.60** | **1843.80** | **$0.041848** | **$0.022123** | **13849.50**    | **7965.60**     | **945.80 (51.30%)**       | **$0.019725 (89.16%)**   | **5883.90 ms (73.87%)**  |
 
+## Data Visualization
+
+![comparison](./media/comparison.png)
+
+![improvment](./media/improvment.png)
+
+![trends](./media/trends.png)
+
+![avg](./media/avg.png)
+
 ## Key Findings
 
 The benchmark results confirm our hypothesis with compelling evidence:
