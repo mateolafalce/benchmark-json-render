@@ -14,6 +14,12 @@ This benchmark compares the efficiency of using **TOON** versus **JSONL** as the
 
 Using TOON instead of JSONL for the LLM output is significantly more cost-effective, even when accounting for the additional context required to explain the TOON format. This is because Claude Opus 4.5's output token cost is **3x higher** than its input token cost.
 
+<div align="center">
+
+<img width="865" height="103" alt="image" src="https://github.com/user-attachments/assets/66831a80-cef2-4fb6-b1e1-673966d0068c" />
+
+</div>
+
 ## Proposed Optimization
 
 Since TOON can be directly translated to JSON, we can modify the prompt to request TOON-formatted output instead of JSONL, then convert it to JSON using TOON's native decoding function. This approach should reduce:
