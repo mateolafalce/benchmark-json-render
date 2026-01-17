@@ -93,8 +93,6 @@ The following results were obtained from testing 10 different UI generation prom
 
 ![trends](./media/trends.png)
 
-![avg](./media/avg.png)
-
 ## Key Findings
 
 The benchmark results confirm our hypothesis with compelling evidence:
