@@ -83,15 +83,15 @@ The following results were obtained from testing 10 different UI generation prom
 
 The benchmark results confirm our hypothesis with compelling evidence:
 
-### 🎯 Token Efficiency
+### Token Efficiency
 - **51.30% fewer tokens** on average (1,843.80 vs 2,789.60)
 - TOON's compact representation significantly reduces output length
 
-### 💰 Cost Savings
+### Cost Savings
 - **89.16% lower cost** on average ($0.022123 vs $0.041848)
 - The reduced output tokens more than compensate for increased input context
 
-### ⚡ Performance
+### Performance
 - **73.87% faster response time** on average (7,965.60ms vs 13,849.50ms)
 - Shorter outputs mean faster streaming and processing
 
